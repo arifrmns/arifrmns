@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifrmns
+- 👋 Hi, I’m Ari Firmansyah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning some languanges programing such as PHP, JS, C#, etc.
 - 📫 How to reach me @arifrmns on instagram
